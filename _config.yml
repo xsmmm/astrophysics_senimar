@@ -9,7 +9,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://xsmmm.github.io'
-baseurl:          '/jekyll-gitbook'
+baseurl:          '/astrophysics_senimar'
 rss:              RSS
 
 # markdown render engine.
