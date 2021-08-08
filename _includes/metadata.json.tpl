@@ -22,11 +22,11 @@
             },
             "search": {},
             "sharing": {
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper"],
-                "facebook": true,
+                "all": false,
+                "facebook": false,
                 "google": false,
                 "instapaper": false,
-                "twitter": true,
+                "twitter": false,
                 "vk": false,
                 "weibo": false
             },
