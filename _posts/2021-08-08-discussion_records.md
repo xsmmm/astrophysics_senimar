@@ -9,6 +9,7 @@ layout: post
 ## 2021-1
 
 **Title: Fundamental GR 1** 
+
 Speaker: 王子铭
 
 Archival :[1广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/1广义相对论基础.pdf)
@@ -17,7 +18,9 @@ Archival :[1广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_sen
 ## 2021-2
 
 **Title: Fundamental GR 2**
+
 Speaker: 董益铭
+
 Archival :[2广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2广义相对论基础2.pdf)
 
 
@@ -25,27 +28,39 @@ Archival :[2广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_sen
 ## 2021-3
 
 **Title: microlensing**
+
 Speaker: 付皓竹
-Archival:[微引力透镜](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/微引力透镜.jpg) [微引力透镜视差](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/微引力透镜视差.pdf)
+
+Archival:
+[微引力透镜](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/微引力透镜.jpg) 
+[微引力透镜视差](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/微引力透镜视差.pdf)
 
 
 ## 2021-4
 
 **Title: conservatin of suface brightness in propagation**
+
 Speaker: 吴梓豪
+
 Archival:[面亮度守恒](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/4面亮度守恒.pdf) 
 
 
 ## 2021-5
 
 **Title: fundamental pulsasr & pulsar model**
+
 Speaker: 曹顺顺
-Archival:[射电 脉冲星 射电脉冲星.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/5射电%20脉冲星%20射电脉冲星.pdf) [脉冲星：RS模型 by順pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/6脉冲星：RS模型%20by順.pdf)
+
+Archival:
+[射电 脉冲星 射电脉冲星.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/5射电%20脉冲星%20射电脉冲星.pdf) 
+[脉冲星：RS模型 by順pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/6脉冲星：RS模型%20by順.pdf)
 
 
 ## 2021-6
 
 **Title: gravitational lensing**
+
 Speaker : 吴泽炫
+
 Archival:[Gravitational lensing.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/Gravitational%20lensing.pdf)
 
