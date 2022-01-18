@@ -32,13 +32,15 @@ Archival :[2广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_sen
 Speaker: 付皓竹
 
 Archival:
+
 [微引力透镜](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/微引力透镜.jpg) 
+
 [微引力透镜视差](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/微引力透镜视差.pdf)
 
 
 ## 2021-5
 
-**Title: conservatin of suface brightness in propagation**
+**Title: suface brightness conservation**
 
 Speaker: 吴梓豪
 
@@ -52,7 +54,9 @@ Archival:[面亮度守恒](https://github.com/xsmmm/astrophysics_senimar/raw/mas
 Speaker: 曹顺顺
 
 Archival:
+
 [射电 脉冲星 射电脉冲星.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/5射电%20脉冲星%20射电脉冲星.pdf) 
+
 [脉冲星：RS模型 by順pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/6脉冲星：RS模型%20by順.pdf)
 
 
@@ -64,3 +68,8 @@ Speaker : 吴泽炫
 
 Archival:[Gravitational lensing.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/Gravitational%20lensing.pdf)
 
+> ref:
+> 
+> [weak gravitational lensing](https://ui.adsabs.harvard.edu/abs/2005astro.ph..9252S/abstract) 
+> 
+> [gravitation lensing](https://ui.adsabs.harvard.edu/abs/1992grle.book.....S/abstract)
