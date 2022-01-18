@@ -72,4 +72,4 @@ Archival:[Gravitational lensing.pdf](https://github.com/xsmmm/astrophysics_senim
 > 
 > [weak gravitational lensing](https://ui.adsabs.harvard.edu/abs/2005astro.ph..9252S/abstract) 
 > 
-> [gravitation lensing](https://ui.adsabs.harvard.edu/abs/1992grle.book.....S/abstract)
+> [gravitation lenses](https://ui.adsabs.harvard.edu/abs/1992grle.book.....S/abstract)
