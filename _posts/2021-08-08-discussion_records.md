@@ -25,7 +25,7 @@ Archival :[2广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_sen
 
 
 
-## 2021-3
+## 2021-3&4
 
 **Title: microlensing**
 
@@ -36,7 +36,7 @@ Archival:
 [微引力透镜视差](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/微引力透镜视差.pdf)
 
 
-## 2021-4
+## 2021-5
 
 **Title: conservatin of suface brightness in propagation**
 
@@ -45,9 +45,9 @@ Speaker: 吴梓豪
 Archival:[面亮度守恒](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/4面亮度守恒.pdf) 
 
 
-## 2021-5
+## 2021-6&7
 
-**Title: fundamental pulsasr & pulsar model**
+**Title: fundamental pulsar & pulsar model**
 
 Speaker: 曹顺顺
 
@@ -56,7 +56,7 @@ Archival:
 [脉冲星：RS模型 by順pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/6脉冲星：RS模型%20by順.pdf)
 
 
-## 2021-6
+## 2021-8&9
 
 **Title: gravitational lensing**
 
