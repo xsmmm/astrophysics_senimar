@@ -44,7 +44,11 @@ Archival:
 
 Speaker: 吴梓豪
 
-Archival:[面亮度守恒](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/4面亮度守恒.pdf) 
+Archival:
+
+[面亮度守恒](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/4面亮度守恒.pdf) 
+
+[Geometric method](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/GeometricMethod(1).pdf) 
 
 
 ## 2021-6&7
