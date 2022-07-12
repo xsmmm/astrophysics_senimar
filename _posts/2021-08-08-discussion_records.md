@@ -12,7 +12,7 @@ layout: post
 
 Speaker: 王子铭
 
-Archival :[1广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/1广义相对论基础.pdf)
+Archival :[1广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2021/1广义相对论基础.pdf)
 
 
 ## 2021-2
@@ -21,7 +21,7 @@ Archival :[1广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_sen
 
 Speaker: 董益铭
 
-Archival :[2广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2广义相对论基础2.pdf)
+Archival :[2广义相对论基础.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2021/2广义相对论基础2.pdf)
 
 
 
@@ -33,9 +33,9 @@ Speaker: 付皓竹
 
 Archival:
 
-[微引力透镜](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/微引力透镜.jpg) 
+[微引力透镜](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2021/微引力透镜.jpg) 
 
-[微引力透镜视差](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/微引力透镜视差.pdf)
+[微引力透镜视差](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2021/微引力透镜视差.pdf)
 
 
 ## 2021-5
@@ -46,9 +46,9 @@ Speaker: 吴梓豪
 
 Archival:
 
-[面亮度守恒](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/4面亮度守恒.pdf) 
+[面亮度守恒](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2021/4面亮度守恒.pdf) 
 
-[Geometric method](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/GeometricMethod(1).pdf) 
+[Geometric method](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2021/GeometricMethod(1).pdf) 
 
 
 ## 2021-6&7
@@ -59,9 +59,9 @@ Speaker: 曹顺顺
 
 Archival:
 
-[射电 脉冲星 射电脉冲星.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/5射电%20脉冲星%20射电脉冲星.pdf) 
+[射电 脉冲星 射电脉冲星.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2021/5射电%20脉冲星%20射电脉冲星.pdf) 
 
-[脉冲星：RS模型 by順pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/6脉冲星：RS模型%20by順.pdf)
+[脉冲星：RS模型 by順pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2021/6脉冲星：RS模型%20by順.pdf)
 
 
 ## 2021-8&9
@@ -70,7 +70,7 @@ Archival:
 
 Speaker : 吴泽炫
 
-Archival:[Gravitational lensing.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/Gravitational%20lensing.pdf)
+Archival:[Gravitational lensing.pdf](https://github.com/xsmmm/astrophysics_senimar/raw/master/Archive/2021/Gravitational%20lensing.pdf)
 
 > ref:
 > 
