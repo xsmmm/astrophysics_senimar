@@ -1,5 +1,5 @@
 ---
-title: Discussion Records
+title: 2022 Discussion Records
 date: 2022-07-11
 category: Jekyll
 layout: post
